@@ -1,4 +1,15 @@
- am a recording musical artist**
+<h1 align="center">Hi 👋, I'm Brandon</h1>
+<h3 align="center">I am passionate about software engineering, computer architecture and electronics</h3>
+
+- 🔭 I’m currently working on [Fazh](https://github.com/BBwanaz/fundo)
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **multi-threaded programming**
+
+- 📫 How to reach me **bbwanaz@student.ubc.ca**
+
+- ⚡ Fun fact **I am a recording musical artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
