@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">I am passionate about software engineering, computer architecture and electronics</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbwanaz" alt="bbwanaz" /></a> </p>
-
-- 🔭 I’m currently working on [Fazh](https://github.com/BBwanaz/fundo)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **multi-threaded programming**
-
-- 📫 How to reach me **bbwanaz@student.ubc.ca**
-
-- ⚡ Fun fact **I am a recording musical artist**
+ am a recording musical artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bbwanaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bbwanaz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bbwanaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bbwanaz" height="30" width="40" /></a>
+<a href="https://instagram.com/bbwanaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bbwanaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
