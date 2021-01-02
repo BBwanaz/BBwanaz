@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **computer architecture**
+- 💬 Ask me about **why transistors are the best!!!**
 
 - 📫 How to reach me **bbwanaz@student.ubc.ca**
 
