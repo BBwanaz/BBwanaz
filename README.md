@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **understanding software from the POV of hardware**
+- 💬 Ask me about **computer architecture**
 
 - 📫 How to reach me **bbwanaz@student.ubc.ca**
 
