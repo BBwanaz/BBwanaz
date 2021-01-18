@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bbwanaz@student.ubc.ca**
 
-- ⚡ Fun fact **I am a recording musical artist**
+- ⚡ Fun fact **I am a recording musical artist** 
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbwanaz&show_icons=true&locale=en" alt="bbwanaz" /></p>
