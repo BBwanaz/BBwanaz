@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Fazh](https://github.com/BBwanaz/fundo)
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **why transistors are the best!!!**
 
 - 📫 How to reach me **bbwanaz@student.ubc.ca**
